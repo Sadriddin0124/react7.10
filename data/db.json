@@ -1,0 +1,336 @@
+{
+  "navbar": [
+    {
+      "id": 1,
+      "logo": "NFT Marketplace",
+      "list": [
+        {
+          "id": 1,
+          "title": "Marketplace"
+        },
+        {
+          "id": 1,
+          "title": "Rankings"
+        },
+        {
+          "id": 1,
+          "title": "Connect a wallet"
+        }
+      ]
+    }
+  ],
+  "header": [
+    {
+      "id": 1,
+      "img": "https://cdn.pixabay.com/photo/2019/04/06/06/44/astronaut-4106766_640.jpg",
+      "img__title": "Space Walking",
+      "img__subtitle": "Animakid",
+      "user": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+      "title": "Discover digital art & Collect NFTs",
+      "desc": "NFT marketplace UI created with Anima for Figma. Collect, buy and sell art from more than 20k NFT artists.",
+      "btn": "Get Started",
+      "statistics": [
+        {
+          "number": "240+",
+          "text": "Total sale"
+        },
+        {
+          "number": "100+",
+          "text": "Auctions"
+        },
+        {
+          "number": "240+",
+          "text": "Artists"
+        }
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "img": "https://pics.craiyon.com/2023-10-20/9986fd599ac949b8bd89b78f365c8a6d.webp",
+      "title": "DSGN Animals",
+      "img2": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+      "subtitle": "MrFox",
+      "sm__img": [
+        {
+          "img": "https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg"
+        },
+        {
+          "img": "https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg"
+        },
+        {
+          "img": "https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg"
+        }
+      ]
+    },
+    {
+      "img": "https://pics.craiyon.com/2023-10-20/9986fd599ac949b8bd89b78f365c8a6d.webp",
+      "title": "Magic Mushrooms",
+      "img2": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+      "subtitle": "Shroomie",
+      "sm__img": [
+        {
+          "img": "https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg"
+        },
+        {
+          "img": "https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg"
+        },
+        {
+          "img": "https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg"
+        }
+      ]
+    },
+    {
+      "img": "https://pics.craiyon.com/2023-10-20/9986fd599ac949b8bd89b78f365c8a6d.webp",
+      "title": "Disco Machines",
+      "img2": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+      "subtitle": "BeKind2Robots",
+      "sm__img": [
+        {
+          "img": "https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg"
+        },
+        {
+          "img": "https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg"
+        },
+        {
+          "img": "https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg"
+        }
+      ]
+    }
+  ],
+  "creators": [
+    {
+      "title": "Top creators",
+      "subtitle": "Checkout Top Rated Creators on the NFT Marketplace",
+      "btn": "View Rankings",
+      "card": [
+        {
+          "id": "1",
+          "img": "https://thumb.tvonenews.com/images/2022/06/20/62b0128e6fca4-anime-naruto.jpg",
+          "title": "Keepitreal",
+          "desc__left": "Total Sales:",
+          "desc__right": "34.53 ETH"
+        },
+        {
+          "id": "2",
+          "img": "https://thumb.tvonenews.com/images/2022/06/20/62b0128e6fca4-anime-naruto.jpg",
+          "title": "Keepitreal",
+          "desc__left": "Total Sales:",
+          "desc__right": "34.53 ETH"
+        },
+        {
+          "id": "3",
+          "img": "https://thumb.tvonenews.com/images/2022/06/20/62b0128e6fca4-anime-naruto.jpg",
+          "title": "Keepitreal",
+          "desc__left": "Total Sales:",
+          "desc__right": "34.53 ETH"
+        },
+        {
+          "id": "4",
+          "img": "https://thumb.tvonenews.com/images/2022/06/20/62b0128e6fca4-anime-naruto.jpg",
+          "title": "Keepitreal",
+          "desc__left": "Total Sales:",
+          "desc__right": "34.53 ETH"
+        },
+        {
+          "id": "5",
+          "img": "https://thumb.tvonenews.com/images/2022/06/20/62b0128e6fca4-anime-naruto.jpg",
+          "title": "Keepitreal",
+          "desc__left": "Total Sales:",
+          "desc__right": "34.53 ETH"
+        },
+        {
+          "id": "6",
+          "img": "https://thumb.tvonenews.com/images/2022/06/20/62b0128e6fca4-anime-naruto.jpg",
+          "title": "Keepitreal",
+          "desc__left": "Total Sales:",
+          "desc__right": "34.53 ETH"
+        },
+        {
+          "id": "7",
+          "img": "https://thumb.tvonenews.com/images/2022/06/20/62b0128e6fca4-anime-naruto.jpg",
+          "title": "Keepitreal",
+          "desc__left": "Total Sales:",
+          "desc__right": "34.53 ETH"
+        },
+        {
+          "id": "8",
+          "img": "https://thumb.tvonenews.com/images/2022/06/20/62b0128e6fca4-anime-naruto.jpg",
+          "title": "Keepitreal",
+          "desc__left": "Total Sales:",
+          "desc__right": "34.53 ETH"
+        },
+        {
+          "id": "9",
+          "img": "https://thumb.tvonenews.com/images/2022/06/20/62b0128e6fca4-anime-naruto.jpg",
+          "title": "Keepitreal",
+          "desc__left": "Total Sales:",
+          "desc__right": "34.53 ETH"
+        },
+        {
+          "id": "10",
+          "img": "https://thumb.tvonenews.com/images/2022/06/20/62b0128e6fca4-anime-naruto.jpg",
+          "title": "Keepitreal",
+          "desc__left": "Total Sales:",
+          "desc__right": "34.53 ETH"
+        },
+        {
+          "id": "11",
+          "img": "https://thumb.tvonenews.com/images/2022/06/20/62b0128e6fca4-anime-naruto.jpg",
+          "title": "Keepitreal",
+          "desc__left": "Total Sales:",
+          "desc__right": "34.53 ETH"
+        },
+        {
+          "id": "12",
+          "img": "https://thumb.tvonenews.com/images/2022/06/20/62b0128e6fca4-anime-naruto.jpg",
+          "title": "Keepitreal",
+          "desc__left": "Total Sales:",
+          "desc__right": "34.53 ETH"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "img": "https://w0.peakpx.com/wallpaper/175/536/HD-wallpaper-car-illustration-classic-car-art.jpg",
+      "title": "Art"
+    },
+    {
+      "img": "https://w0.peakpx.com/wallpaper/175/536/HD-wallpaper-car-illustration-classic-car-art.jpg",
+      "title": "Art"
+    },
+    {
+      "img": "https://w0.peakpx.com/wallpaper/175/536/HD-wallpaper-car-illustration-classic-car-art.jpg",
+      "title": "Art"
+    },
+    {
+      "img": "https://w0.peakpx.com/wallpaper/175/536/HD-wallpaper-car-illustration-classic-car-art.jpg",
+      "title": "Art"
+    },
+    {
+      "img": "https://w0.peakpx.com/wallpaper/175/536/HD-wallpaper-car-illustration-classic-car-art.jpg",
+      "title": "Art"
+    },
+    {
+      "img": "https://w0.peakpx.com/wallpaper/175/536/HD-wallpaper-car-illustration-classic-car-art.jpg",
+      "title": "Art"
+    },
+    {
+      "img": "https://w0.peakpx.com/wallpaper/175/536/HD-wallpaper-car-illustration-classic-car-art.jpg",
+      "title": "Art"
+    },
+    {
+      "img": "https://w0.peakpx.com/wallpaper/175/536/HD-wallpaper-car-illustration-classic-car-art.jpg",
+      "title": "Art"
+    }
+  ],
+  "discover": [
+    {
+      "title": "Discover More NFTs",
+      "subtitle": "Explore new trending NFTs",
+      "btn": "See All",
+      "card": [
+        {
+          "img": "https://www.publicdomainpictures.net/pictures/530000/nahled/futuristic-sports-car-illustration-1692037277kxi.jpg",
+          "title": "Distant Galaxy",
+          "name": "MoonDancer",
+          "price": "Price",
+          "highest": "Highest Bid",
+          "desc_1": "1.63 ETH",
+          "desc_2": "0.33 wETH"
+        },
+        {
+          "img": "https://www.publicdomainpictures.net/pictures/530000/nahled/futuristic-sports-car-illustration-1692037277kxi.jpg",
+          "title": "Distant Galaxy",
+          "name": "MoonDancer",
+          "price": "Price",
+          "highest": "Highest Bid",
+          "desc_1": "1.63 ETH",
+          "desc_2": "0.33 wETH"
+        },
+        {
+          "img": "https://www.publicdomainpictures.net/pictures/530000/nahled/futuristic-sports-car-illustration-1692037277kxi.jpg",
+          "title": "Distant Galaxy",
+          "name": "MoonDancer",
+          "price": "Price",
+          "highest": "Highest Bid",
+          "desc_1": "1.63 ETH",
+          "desc_2": "0.33 wETH"
+        }
+      ]
+    }
+  ],
+  "mushroom": [
+    {
+      "bg": "https://t4.ftcdn.net/jpg/05/66/95/57/360_F_566955794_YYCRaL9DkZub8MhObK7VUmlApJLTJ0jx.jpg",
+      "username": "Shroomie",
+      "title": "Magic Mashrooms",
+      "btn": "See NFT",
+      "timer__text": "Auction ends in:",
+      "timer__num": "59",
+      "hours": "Hours",
+      "minutes": "Minutes",
+      "seconds": "Seconds"
+    }
+  ],
+  "works": [
+    {
+      "theme": "Setup Your wallet",
+      "desc": "Set up your wallet of choice. Connect it to the Animarket by clicking the wallet icon in the top right corner.",
+      "img": "https://img.freepik.com/premium-photo/universe-is-planet-with-galaxy-universe-is-called-galaxy_818261-534.jpg"
+    },
+    {
+      "theme": "Setup Your wallet",
+      "desc": "Set up your wallet of choice. Connect it to the Animarket by clicking the wallet icon in the top right corner.",
+      "img": "https://img.freepik.com/premium-photo/universe-is-planet-with-galaxy-universe-is-called-galaxy_818261-534.jpg"
+    },
+    {
+      "theme": "Setup Your wallet",
+      "desc": "Set up your wallet of choice. Connect it to the Animarket by clicking the wallet icon in the top right corner.",
+      "img": "https://img.freepik.com/premium-photo/universe-is-planet-with-galaxy-universe-is-called-galaxy_818261-534.jpg"
+    }
+  ],
+  "digest": [
+    {
+      "title": "Join our weekly digest",
+      "desc": "Get exclusive promotions & updates straight to your inbox.",
+      "placeholder": "Enter your email here",
+      "btn": "Subscribe",
+      "img": "https://s3-alpha-sig.figma.com/img/9f1a/3ec9/5772f9d568933f15578613e18c5adb73?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QW6V0WfLInL1i90IAOfvEGkx6-lPmRjCbTfIuUk8vp6VcFTp~sXdR-zp8v2XokATMhpRGp9RyLUDqmYM3Enf25Qct-~23GuiERM3haM4Enq4FBQ1PNUKyR-n~k4AB3oSXMMtD3t9K8Qs1wdFATb52XVZAUhXekiuTxFu1bAmsVWV7Mt2K5pq2aqAgVzORhzxQk7LMNgGmB5ZQNzBtIddu4Ng06Fe31k53nrdSCVBL4xPy1cd5yHxqbuFHMO7hKl~ABfH8YDO8urAWgBnmdsBQ355tIRmp26cZ0EKLuNP2g~EVKXEn9zHmvPs-gmgqT9VX9Dp-MpaIHwfg1QlBFoaKA__"
+    }
+  ],
+  "footer": [
+    {
+      "title1": "NFT Marketplace",
+      "title2": "Explore",
+      "title3": "Join our weekly digest",
+      "subtitle1": "NFT marketplace UI created with Anima for Figma.",
+      "subtitle2": "Join our community",
+      "subtitle3": "Marketplace",
+      "subtitle4": "Rankings",
+      "subtitle5": "Connect a wallet",
+      "subtitle6": "Get exclusive promotions & updates straight to your inbox.",
+      "placeholder": "Enter your email here",
+      "btn": "Subscribe",
+      "footer": "Ⓒ NFT Market. Use this template freely."
+    }
+  ],
+  "subscribers": [
+    {
+      "email": "someone@example.com"
+    },
+    {
+      "id": "bba2",
+      "email": "sadriddinravshanov19@gmail.com"
+    },
+    {
+      "id": "30ec",
+      "email": "sadriddinravshanov19@gmail.com"
+    },
+    {
+      "id": "ada2",
+      "email": "killerbobo601@gmail.com"
+    }
+  ]
+}
